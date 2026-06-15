@@ -35,7 +35,7 @@
 <h2 align="center">📌 Let's Connect & Collaborate!</h2>
 
 <p align="center">
-  <a href="https://shubhamborse.netlify.app">
+  <a href="https://shubhamborsein.netlify.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
